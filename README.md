@@ -217,4 +217,4 @@ ViStart is offered as a full free version with all features and updates included
 Transform your Windows XP experience today with ViStart! Download now and enjoy a modern Start menu with all features included!
 
 ---
-**Last updated:** 2026-09-16 22:51:53 UTC
+**Last updated:** 2026-09-17 01:16:18 UTC
